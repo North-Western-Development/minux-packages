@@ -19,7 +19,7 @@ Usage: build.sh [options] <command>
     dryrun [pkgs...]        - Pretend to build all packages, for debugging
     abibreak <pkg>          - ABI break helper, opens all the control files for packages
                               that depend on <pkg> and then rebuilds them
-    --target                - Specify a target (default: armv6-apple-darwin9)
+    --target                - Specify a target (default: riscv64-linux-musl)
     --no-tmp                - Do not use /tmp for anything, use the current directory instead
     -jN                     - Set the number of jobs passed to programs like make and ninja
 ```
