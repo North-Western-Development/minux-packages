@@ -1,0 +1,6 @@
+Package: pfetch
+Section: utils
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Architecture: all
+Version: 1.9.1
+Description: A pretty system information tool written in POSIX sh
