@@ -1,5 +1,5 @@
 Package: htop
-Version: 3.3.0
+Version: 3.4.1
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Architecture: @DPKGARCH@
 Description: interactive processes viewer
